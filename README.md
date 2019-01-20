@@ -25,6 +25,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 Capsules for Object Segmentation](https://arxiv.org/abs/1804.04241v1) Rodney LaLonde, Ulas Bagci
 - [Investigating Capsule Networks with Dynamic Routing for
 Text Classification](https://arxiv.org/pdf/1804.00538.pdf) Wei Zhao, Jianbo Ye3, Min Yang1, Zeyang Lei4 , Soufei Zhang5 , Zhou Zhao6 :new:
+- [Multi-level Dense Capsule Networks](https://github.com/ssrp/Multi-level-DCNet) Sai Samarth R Phaye*, Apoorva Sikka*, Abhinav Dhall and Deepti R. Bathula (Accepted in ACCV 2018) :new:
 
 ## Articles
 - [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
@@ -117,6 +118,7 @@ The implementations has been considered to be official since the authors were di
 - [theblackcat102/dynamic-routing-capsule-cifar](https://github.com/theblackcat102/dynamic-routing-capsule-cifar)
 - [streamride/CapsNet-keras-imdb](https://github.com/streamride/CapsNet-keras-imdb)
 - [fengwang/minimal-capsule](https://github.com/fengwang/minimal-capsule)
+- [ssrp/Multi-level-DCNet](https://github.com/ssrp/Multi-level-DCNet)
 
 ## MXNet
 - [AaronLeong/CapsNet_Mxnet)](https://github.com/AaronLeong/CapsNet_Mxnet)
